@@ -2,7 +2,7 @@
 
 ## 🎓 Computer Science Undergrad @ [MUN](https://www.mun.ca)
 
-I'm passionate about solving problems and creating impactful software. My programming journey is marked by a constant pursuit of learning.
+I have a passion for solving problems and creating impactful software. My programming journey is marked by a constant pursuit of learning.
 
 ### 📫 How to reach me:
 - [Contact Page](https://ahamsel.github.io/portfolio/pages/contact)
