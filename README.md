@@ -11,4 +11,4 @@ I have a passion for solving problems and creating impactful software. My coding
 
 ---
 
-P.S. Try out [this game I had made](https://aaess.itch.io/game-without-art) during [lockdown](https://github.com/ahamSel/Lockdown) – hope you enjoy it!
+🕹️ Try out [this game I made](https://aaess.itch.io/game-without-art) during [lockdown](https://github.com/ahamSel/Lockdown) – hope you enjoy it!
