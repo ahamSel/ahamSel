@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Amine Es-Selmouni 👋
+# Hi there, I'm Ahmed 👋
 
 ## 🎓 Computer Science Undergrad @ [MUN](https://www.mun.ca)
 
