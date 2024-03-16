@@ -7,7 +7,7 @@ I have a passion for solving problems and creating impactful software. My coding
 ### 📫 How to reach me:
 - [Contact Page](https://ahamsel.github.io/portfolio/pages/contact)
 - Email: [aaesselmouni@mun.ca](mailto:aaesselmouni@mun.ca)
-- LinkedIn: [Ahmed Amine Es-Selmouni](https://www.linkedin.com/in/aaesselmouni)
+- [LinkedIn](https://www.linkedin.com/in/aaesselmouni)
 
 ---
 
